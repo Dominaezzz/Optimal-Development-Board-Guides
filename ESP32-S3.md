@@ -94,8 +94,8 @@ However, if you don't have any other use for the following pins, you should use 
 
 | Pin Name | GPIO Number |
 |----------|-------------|
-| MOSI     | GPIO11      |
-| MISO     | GPIO13      |
+| MOSI/D0  | GPIO11      |
+| MISO/D1  | GPIO13      |
 | SCLK     | GPIO12      |
 | CS0      | GPIO10      |
 
